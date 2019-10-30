@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "662878004644",
+    "firebase_url": "https://mapskotlin-257504.firebaseio.com",
+    "project_id": "mapskotlin-257504",
+    "storage_bucket": "mapskotlin-257504.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662878004644:android:d43fb1fda1c615db8bcd31",
+        "android_client_info": {
+          "package_name": "com.example.mapskotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662878004644-a8jgr95p9hmr08q3j80acf6gs23t173k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mapskotlin",
+            "certificate_hash": "571e12a6cb6002217b931868f9f4cbf5d9bad4ef"
+          }
+        },
+        {
+          "client_id": "662878004644-bpd246skknaguk9vinnku6tnhotv3555.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5W111QgSbvpkeptB6XESJjNIfKYP1jSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662878004644-bpd246skknaguk9vinnku6tnhotv3555.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
